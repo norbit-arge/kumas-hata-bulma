@@ -1,0 +1,9 @@
+*img içerisinde her bir videodaki hata için croplanan resimler vardır.
+
+*Hata Türleri
+type 1: Delik
+type 2: Kırık
+type 3: Solma
+type 4: Yağ lekesi
+
+*Hata koordinatları kumaş haritası 1000x250 piksel varsayılarak verilmiştir.
